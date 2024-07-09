@@ -31,3 +31,12 @@ home
 
 
 login
+
+
+
+
+........................
+Relations:  (category)
+    - One to many  [ user - posts ]   Foreginkey
+    - Many to many [ user - groups ]  
+    - One to one   [ user - profile ]
