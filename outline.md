@@ -1,9 +1,9 @@
 Job :
     - title
     - location
-    - job type
+    - job_type
     - description
-    - published at
+    - published_at
     - vacancy
     - salary
     - category
